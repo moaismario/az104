@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_webVM1_name": {
+            "value": null
+        },
+        "virtualMachines_webVM2_name": {
+            "value": null
+        },
+        "networkInterfaces_webNic1_name": {
+            "value": null
+        },
+        "networkInterfaces_webNic2_name": {
+            "value": null
+        },
+        "loadBalancers_myLoadBalancer_name": {
+            "value": null
+        },
+        "publicIPAddresses_myPublicIP_name": {
+            "value": null
+        },
+        "virtualNetworks_bePortalVnet_name": {
+            "value": null
+        },
+        "dnszones_moaismario_publicvm_com_name": {
+            "value": null
+        },
+        "networkSecurityGroups_bePortalNSG_name": {
+            "value": null
+        },
+        "availabilitySets_portalAvailabilitySet_name": {
+            "value": null
+        },
+        "privateDnsZones_private_moaismario_publicvm_com_name": {
+            "value": null
+        }
+    }
+}
