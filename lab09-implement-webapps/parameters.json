@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_az104_webapp_name": {
+            "value": null
+        },
+        "serverfarms_ASP_az104rg9_95de_name": {
+            "value": null
+        },
+        "loadtests_az104_webapp_loadtest12354132_name": {
+            "value": null
+        }
+    }
+}
